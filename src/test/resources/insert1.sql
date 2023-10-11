@@ -1,0 +1,1 @@
+insert into tb_user VALUES (3, 'ana@ifpb.edu.br', 'Ana');
